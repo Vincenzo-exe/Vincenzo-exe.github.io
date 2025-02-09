@@ -1,16 +1,16 @@
-body{
-	margin:0;
-	padding: 0;
-	background:#000;
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
 }
 
 p {
-	font-size:8px;
-	line-height:8px;
-	text-align:justify;
-	background: url(image.jpg) no-repeat center/contain fixed;
-	min-height: 100vh;
-	background-clip: text;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: rgb(225, 225, 255, 0);
-}
+    font-size: 8px;
+    line-height: 8px;
+    text-align: justify;
+    background: url(image.jpg) no-repeat center/contain fixed;
+    min-height: 100vh;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    color: transparent; 
